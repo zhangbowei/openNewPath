@@ -1,0 +1,23 @@
+{
+  "name": "opennewpath",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "dependencies": {
+    "shelljs": "^0.7.7",
+    "yargs": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangbowei/openNewPath.git"
+  },
+  "author": "zhangbowei",
+  "license": "ISC",
+  "bin": {
+    "refreshCommand": "./bin/openNewPath.js"
+  },
+  "description": ""
+}
