@@ -1,6 +1,6 @@
 {
   "name": "opennewpath",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.js",
   "dependencies": {
     "shelljs": "^0.7.7",
@@ -17,7 +17,7 @@
   "author": "zhangbowei",
   "license": "ISC",
   "bin": {
-    "refreshCommand": "./bin/openNewPath.js"
+    "openNewPath": "./bin/openNewPath.js"
   },
   "description": ""
 }
